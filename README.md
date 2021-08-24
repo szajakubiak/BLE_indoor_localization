@@ -1,2 +1,7 @@
-# BLE_indoor_localization
-Arduino code to create BLE localization beacon from ESP32
+# BLE indoor positioning
+
+Arduino code to create the BLE indoor positioning beacon.
+
+# Detailed description
+
+Getting started tutorials by [Andreas Spiess](https://www.youtube.com/channel/UCu7_D0o48KbfhpEohoP7YSQ) on using BLE feature of ESP32 microcontroller in Arduino are [here](https://www.youtube.com/watch?app=desktop&v=2mePPqiocUE) and [here](https://www.youtube.com/watch?app=desktop&v=osneajf7Xkg).
