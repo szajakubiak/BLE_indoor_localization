@@ -29,10 +29,10 @@
 byte flags[1] = {0b00110101};
 
 // Variables storing the position
-int localNorth = 10;
-int localEast = 60;
+int localNorth = 10;    // in dm
+int localEast = 60;     // in dm
 int floorNumber = 1;
-const char locationName[] PROGMEM = {"A107"};
+const char locationName[] PROGMEM = {"Room_13"};
 
 // Define BLE transmit power by changing ESP_PWR_LVL_XY
 // to one of the following values of XY: N14, N11, N8, N5, N2, P1, P4, P4
